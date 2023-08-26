@@ -1,4 +1,6 @@
 # health
+# asset
+<img width="1440" alt="bg" src="https://github.com/onkar49/healthcare-chatbot/assets/63900543/c86df99c-cdcc-43aa-adf5-641f01f84668">
 
 # design
 <img width="1440" alt="ChatPage" src="https://github.com/onkar49/healthcare-chatbot/assets/63900543/1e19398a-c9ca-405e-b124-ced551604a92">
